@@ -17,8 +17,6 @@
 - `style.css` — styles
 - `script.js` — logic
 
-No build tools or dependencies needed.
-
 ---
 
 **Special Thanks:**
